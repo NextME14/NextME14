@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NextME14 (my GITHUB username)
 - 👀 I’m interested in ML, DL, DS and love to be a Data scientist who can collaborate with AI and ML enigneers. 
-- 🌱 I’m currently learning Digital IMAGE PROCESSING 
+- 🌱 I’m currently learning Computer Vision, NLP and IoT
 - 💞️ I’m looking to collaborate on various RPA - Robotic Process Automation projects 
 - 📫 How to reach me- neth.muthugala1@gmail.com or https://www.linkedin.com/in/nethmim/
 
