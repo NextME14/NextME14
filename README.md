@@ -1,9 +1,17 @@
- 👋 Hi, I’m @NextME14 (my GITHUB username)
-- 👀 I’m interested in ML, DL, DS and love to be a Data scientist who can collaborate with AI and ML enigneers. 
-- 🌱 I’m currently learning Computer Vision, NLP and IoT
-- 💞️ I’m looking to collaborate on various RPA - Robotic Process Automation projects 
-- 📫 How to reach me- neth.muthugala1@gmail.com or https://www.linkedin.com/in/nethmim/
-- 👽 Add me on WeChat: Nexmi2000
+### 👋 Hi there, I'm Nethmi!
+
+🎓 Masters in Electronic Information at Tianjin University, China  
+💡 Researcher at the TJUNLP Lab https://tjunlp-lab.github.io/
+🌍 Passionate about Low-Resource NLP, multilingual NLP, and responsible AI  
+🤖 Interests: NLP | Generative AI | Ethical AI 
+🌱 Currently working on multilingual data augmentation and Culturally adapted LLMs  
+🌏 Advocate for cross-cultural collaboration, global leadership, and digital innovation  
+🌐 I’m looking to collaborate on research, AI/ML projects, and impactful open-source work
+
+📫 Reach me at: neth.muthugala1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nethmim/)  
+👽 Add me on WeChat: Nexmi2000  
+
 
 
 
