@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Nethmi!
 
 🎓 Masters in Electronic Information at Tianjin University, China  
-💡 Researcher at the TJUNLP Lab https://tjunlp-lab.github.io/
+💡 Researcher at the TJUNLP Lab (https://tjunlp-lab.github.io/)
+
 🌍 Passionate about Low-Resource NLP, multilingual NLP, and responsible AI  
 🤖 Interests: NLP | Generative AI | Ethical AI 
 🌱 Currently working on multilingual data augmentation and Culturally adapted LLMs  
