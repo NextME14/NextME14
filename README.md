@@ -11,6 +11,7 @@
 
 📫 Reach me at: neth.muthugala1@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/nethmim/)  
+📚 Google Scholar: [https://scholar.google.com/citations?user=PLepZSQAAAAJ](https://scholar.google.com/citations?user=PLepZSQAAAAJ&hl=en)
 👽 Add me on WeChat: Nexmi2000  
 
 
